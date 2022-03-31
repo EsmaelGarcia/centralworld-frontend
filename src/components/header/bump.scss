@@ -1,0 +1,22 @@
+.menu {
+    width: 100%;
+    justify-content: flex-end;
+    margin-top : 20px;
+    .link {
+      display: none;
+    }
+
+    .searchcont {
+      display: block;
+      margin-left: 0;
+      margin-right: 20px;
+    }
+  }
+
+  .menuLink {
+    margin-top:20px;
+  }
+
+  .secondmenu {
+    display: flex;
+  }
